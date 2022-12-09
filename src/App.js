@@ -7,7 +7,7 @@ function App() {
   const USER_ID = "6370d7cda004eaa68b91647e";
 //   admin: 6370d7cda004eaa68b91647e
 // test: 6378905c8b6200719567cc0a
-  const [theme, setTheme] = useState("dark");
+  const [theme, setTheme] = useState("light");
   const [themeColor, setThemeColor] = useState("#161616");
   const [toggleButton, setToggle] = useState(false);
   const handleClick = () => {
