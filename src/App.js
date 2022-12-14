@@ -3,8 +3,8 @@ import SendbirdApp from "@sendbird/uikit-react/App";
 import "@sendbird/uikit-react/dist/index.css";
 import { useState } from "react";
 function App() {
-  const APP_ID = "6EFB5B28-6284-49CF-95F4-EC39B2E98412";
-  const USER_ID = "6370d7cda004eaa68b91647e";
+  const APP_ID = "6096D221-F13B-41B3-BB53-CACFCD6D6589";
+  const USER_ID = "123456";
 //   admin: 6370d7cda004eaa68b91647e
 // test: 6378905c8b6200719567cc0a
   const [theme, setTheme] = useState("light");
